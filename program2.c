@@ -1,6 +1,7 @@
-//program to find Factors of a Positive Integer
+//program to find Factors of a Positive Integer + include stdlib
 
 #include <stdio.h>
+#include <stdlib.h>
 int main()
 {
     int number, i;
@@ -18,4 +19,5 @@ int main()
     }
 
     return 0;
+    
 }
