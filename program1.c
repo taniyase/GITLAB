@@ -8,7 +8,7 @@ int main()
 {
     int year;
 
-    printf("ENTER a year in A.D: ");
+    printf("ENTER A LEAP YEAR IN A.D: ");
     scanf("%d",&year);
 
     if(year%4 == 0)
