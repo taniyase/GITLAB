@@ -1,4 +1,6 @@
-//Program to Check Leap Year
+//Program to Check Leap Year 
+
+//check Leap year by A.D
 
 #include <stdio.h>
 
